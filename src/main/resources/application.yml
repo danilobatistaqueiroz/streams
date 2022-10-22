@@ -1,0 +1,8 @@
+server:
+  port: 8086
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5552
+    password: .123-321.
+    username: rabbit_admin
